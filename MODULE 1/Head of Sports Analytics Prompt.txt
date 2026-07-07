@@ -10,7 +10,7 @@ The intern needs guidance on:
 Prompt Instructions: 
 1. Start by consulting specialized sites like Transfermarkt for market values and contract details, then Flashscore to check recent match form. With the information found start the filtering part. Filter out players that do not reach the requirements we need (like players with under 900 minutes played last season). We can set extra rules for players in lower leagues than what we actively search so we can find a hidden gem.
 2. Describe a typical workflow. Include Python code using pandas and scikit-learn to transform the data into clean percentile ranks. Keep the code clean and human-written, without over-engineering it. 
-3. Give a couple of examples on how we can pitch the information gathered to the coaching staff. For example: "Player X has great distance stats, but his success rate drops by Y% after 65 minutes of play" 
+3. Use a few-shots: examples on how we can pitch the information gathered to the coaching staff. For example: "Player X has great distance stats, but his success rate drops by Y% after 65 minutes of play" 
 4. Finish up with a realistic plan for the intern to follow: connecting the data with actual footage from Wyscout and doing a quick cost-to-performance list for the intern to see if the player fits the club's budget.
 
 Use clear language and bullet-format reasoning. Focus on clean, practical data structures and real-world football data trade-offs
